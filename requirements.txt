@@ -1,0 +1,4 @@
+scikit-learn
+streamlit
+# pandas is optional — only needed if you want to explore the CSV yourself
+# pandas
